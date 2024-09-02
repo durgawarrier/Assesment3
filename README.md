@@ -4,7 +4,6 @@
 1. Durga Warrier [1041940]
 2. Kailash Bangari [1041751]
 3. Mayank Mali [1041939]
-4. Neeraj Chawla [1041416]
 
 ## Project Summary
 This project illustrates the process of connecting an Azure Virtual Machine (VM) with Azure Container Instances (ACI) within a single Virtual Network (VNet). The objective is to establish secure communication between the VM and the containerized applications running in the ACI, all within the same VNet.
